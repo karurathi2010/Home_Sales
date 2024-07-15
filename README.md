@@ -9,15 +9,15 @@ In this challenge,used SparkSQL to determine key metrics about home sales data.A
 
 * What is the average price for a four bedroom house sold per year, rounded to two decimal places?
 
-![alt text](image.png)
+![alt text](image-6.png)
 
 * What is the average price of a home for each year the home was built,that have 3 bedrooms and 3 bathrooms, rounded to two decimal places?
 
-![alt text](image-1.png)
+![alt text](image-7.png)
 
 * What is the average price of a home for each year the home was built,that have 3 bedrooms, 3 bathrooms, with two floors,and are greater than or equal to 2,000 square feet, rounded to two decimal places?
 
-![alt text](image-2.png)
+![alt text](image.png)
 
 * What is the average price of a home per "view" rating, rounded to two decimal places,having an average home price greater than or equal to $350,000? Order by descending view rating.Although this is a small dataset, determine the run time for this query.
 
